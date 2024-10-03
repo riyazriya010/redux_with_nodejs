@@ -65,7 +65,7 @@ The changes to your applications state become predictable
  Redux - state management liabrary
  They both work indipendently each other to directly use react in our applicaition it confusing and difficult. for that reason we have react-redux package
 
-    React-Redux is the official UI binding liabrary for the react
+React-Redux is the official UI binding liabrary for the react
 
 ## Summary
 React is UI liabrary
